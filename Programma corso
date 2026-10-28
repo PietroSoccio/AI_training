@@ -1,2 +1,35 @@
 24/10/2026  - Preparazione ambiente a casa
             - Comandi VS code CNTR+P / F1 per console
+
+
+Python
+IDE e Editor di Testo: Visual Studio Code e Jupyter Notebook
+Sintassi di Base di Python
+Strutture Dati in Python
+Gestione delle Eccezioni
+Programmazione Orientata agli Oggetti (OOP)
+Gestione Pacchetti con PiPy
+GitHub
+Ambienti Virtuali con Conda
+Librerie Scientifiche: Utilizzo di NumPy e Pandas per l’analisi dei dati
+Visualizzazioni dei Dati: Matplotlib e Seaborn
+Installazione di TensorFlow, PyTorch e CUDA
+Fasi della progettazione
+
+Generazione Dati Sintetici
+Pre-processamento Dati
+Exploratory Data Analysis (EDA)
+Modelli di Machine Learning: introduzione ai modelli supervisionati, non supervisionati e di rinforzo
+K-Fold Cross Validation per valutare le prestazioni del modello
+Tecniche di Resampling
+Pipeline di Scikit-learn per preprocessing e modellazione
+Grid Search e Random Search per l’ottimizzazione degli iperparametri
+Generazione di Grafici con Matplotlib e Seaborn
+Divisione del Dataset in training set e test set
+Valutazione dell’Accuratezza
+Pickerizzazione del Modello
+Deep Learning e reti neurali
+Reti Generative Avversarie
+Debugging con ChatGPT
+Deploy con Google Colab
+Computazione su GPU con CUDA
